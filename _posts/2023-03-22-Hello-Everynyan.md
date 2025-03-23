@@ -1,14 +1,12 @@
 ---
 layout: post
 author: yavuzb
-title: "Hello Everynyan!"
-description: "suck my finger"
+title: "Greetings, This is YavuzB!"
+description: "Free your inner child!"
 date: 2025-03-23
-comments: true
+comments: false
 ---
 
-# Hello Everynyan
+# 
 
-This is my first md try cart curt
-
-And this one is the github edit in place thingy poopy waagle
+My name is Yavuz Selim, a science lover guy from Turkey...
