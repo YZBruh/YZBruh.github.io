@@ -1,5 +1,6 @@
 ---
 layout: post
+author: yzbruh
 title: "Hello Everyone!"
 description: "My first blog post!"
 date: 2025-03-23
