@@ -1,7 +1,9 @@
 ---
 layout: post
 title: "Hello Everyone!"
+description: "My first blog post!"
 date: 2025-03-23
+comments: false
 ---
 
 # Welcome to my blog!
