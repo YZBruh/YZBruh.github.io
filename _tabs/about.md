@@ -8,5 +8,3 @@ order: 4
  - 16 years old 
  - Turkey 🇹🇷
  - Android, linux, open source
-
- | [Telegram](t.me/YZBruh) | [GitHub](github.com/YZBruh) |
