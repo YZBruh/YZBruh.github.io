@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Hello Everyone!"
+date: 2025-03-23
+---
+
+# Welcome to my blog!
+
+Hello, I'm YZBruh (Yagiz Zengin). I would like to introduce myself in the first article of my blog.
+I am a 16 year old enthusiast interested in Android, Linux and open source. I know `C`, `C++`, `Make` and `Bash` languages. And always improving!That's all for now friends...
