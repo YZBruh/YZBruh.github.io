@@ -4,7 +4,9 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-# YZBruh (Yagiz Zengin)
+# YZBruh (Yağız Zengin)
  - 16 years old 
  - Turkey 🇹🇷
- - Android, linux, open source 
+ - Android, linux, open source
+
+ | [Telegram](t.me/YZBruh) | [GitHub](github.com/YZBruh) |
