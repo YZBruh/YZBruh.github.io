@@ -8,3 +8,8 @@ order: 4
  - 16 years old 
  - Turkey 🇹🇷
  - Android, linux, open source
+
+# Yavuz Selim (YavuzB)
+ - 18 years old
+ - Turkey 🇹🇷
+ - Popular technology and science
