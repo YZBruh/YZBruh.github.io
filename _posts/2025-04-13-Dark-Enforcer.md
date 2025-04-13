@@ -4,6 +4,7 @@ author: yzbruh
 title: "Dark Enforcer Module"
 description: "Force dark mode for apps based on situations."
 date: 2025-04-13
+comments: true
 ---
 
 # Dark Enforcer
